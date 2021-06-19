@@ -304,6 +304,29 @@ a {
   margin: 14px 0 5vh 0;
 }
 
+.devMenu {
+  font-size: 12pt;
+  color: #696969;
+}
+
+.devMenu a {
+  font-size: 16pt;
+  font-weight: bold;
+  color: #49bed7;
+  display: block;
+  margin: 16px 0 5px 0;
+}
+
+.devMenu a:hover {
+  color: #b0f1ff;
+}
+
+.devMenu p {
+  font-size: 26pt;
+  font-weight: bold;
+  margin-bottom: 5vh;
+}
+
 .name {
   font-size: 28pt;
   font-family: Arial, sans-serif;
